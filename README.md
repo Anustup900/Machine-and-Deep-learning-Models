@@ -1,2 +1,2 @@
-# needpredmodel
-parameters/classifier model
+Need prediction odel is job tag classifier and prediction model,which takes input as users name,loctio,gender,graduation year,position and the skill set.on the basis of this parameters it gives job prediction to the users,job tag s available to them,it predicts the users age from the graduation year of the person.it creates network with the similar profile.it is trained on deep neural networks CNN and 
+RNN.
