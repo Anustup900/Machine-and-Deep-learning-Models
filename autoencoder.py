@@ -1,3 +1,5 @@
+#Its an auto encoder model to enchance the accuracy of the recomender.py
+
 from keras import layers, backend
 from keras.models import Model, load_model
 from keras.callbacks import TensorBoard
