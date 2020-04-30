@@ -112,6 +112,7 @@ def get_job_id(usrid_list):
 get_recommendations_userwise(47)
 get_job_id(get_recommendations_userwise(47))
 
+
                                     
 
                                                                                                                                                                                                                            
