@@ -1,3 +1,4 @@
+#this script is to call online live data from any source just by mentioning links 
 from sqlalchemy import create_engine
 from nltk.corpus import wordnet
 import pandas as pd
