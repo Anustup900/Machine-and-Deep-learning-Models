@@ -1,3 +1,7 @@
+#Text classification neural network model
+#Its extracts features about what users are trying to think 
+#It involves CNN and a parsing algorithm leading to text classifiaction during the tim eof search.
+
 from textblob import TextBlob
 import traceback
 import string
