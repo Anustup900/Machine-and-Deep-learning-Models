@@ -1,3 +1,5 @@
+#ABOUT THE PROJECT
+
 These are some eaxmples of applications of prediction models by application of deep learnining and machine learning applications. 
 The repo contains prediction examples based on job prediction.
 Prediction of jobs based on different parameters like : Age , Location ,resume ,experience , skills,top skills , Profile based classification .
